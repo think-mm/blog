@@ -1,6 +1,6 @@
 Host: blog.skeptics.xyz
 LinksUseHttps: true
-MirrorResources: false
+MirrorResources: true
 EditLink: => "https://github.com/think-mm/blog/edit/dev/input/" + doc.Source.GetRelativeInputPath()
 GitHubOwner: think-mm
 GitHubName: blog
