@@ -1,5 +1,5 @@
 [submodule "theme"]
 	path = theme
-	url = https://github.com/statiqdev/CleanBlog
+	url = https://github.com/think-mm/theme
 [submodule "https://github.com/think-mm/theme.git"]
 	url = theme
