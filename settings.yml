@@ -1,8 +1,5 @@
 Host: blog.skeptics.xyz
 LinksUseHttps: true
-MirrorResources: false
+SiteTitle: মুক্তমনা আর্কাইভ
+Description: অভিজিৎ রায় রচিত সকল প্রবন্ধ, নিবন্ধ, গবেষণা, বই ও ব্লগ পোস্টের আর্কাইভ
 EditLink: => "https://github.com/think-mm/blog/edit/dev/input/" + doc.Source.GetRelativeInputPath()
-GitHubOwner: think-mm
-GitHubName: blog
-GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
-GitHubBranch: web
