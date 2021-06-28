@@ -1,10 +1,12 @@
-Title: বিবিসি বাংলাতে বন্যা আহমেদের সাক্ষাৎকার
+Title: পডকাস্ট -বিবিসি বাংলাতে বন্যা আহমেদের সাক্ষাৎকার
 Published: 09/06/2015
 Tags:
+  - বন্যা আহমেদ
+  - অভিজিৎ রায়
   - podcasts
-  - প্রদীপ দেব
 ---
-বিবিসি বাংলাতে বন্যা আহমেদের সাক্ষাৎকার পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1Ubu8y-S3GV4-OsZPLwtX3tN-4QUugXZP)। #অভিজিৎ রায়
+
+বিবিসি বাংলাতে বন্যা আহমেদের সাক্ষাৎকার পডকাস্টটি রয়েছে [এখানে](https://drive.google.com/open?id=1Ubu8y-S3GV4-OsZPLwtX3tN-4QUugXZP)।
 
 - [soundcloud playlist](https://soundcloud.com/mukto-mona)
 - [podcast archive link](http://web.archive.org/web/20191023151006/http://podcast.mukto-mona.com)
